@@ -1,4 +1,4 @@
-# YAML Lint
+# YAML-Linter
 
 [![Container Release (yamllint)](https://github.com/leberkaslabs/docker-image-yamllint/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/leberkaslabs/docker-image-yamllint/actions/workflows/build-push-action.yml)
 
