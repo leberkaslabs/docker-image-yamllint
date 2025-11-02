@@ -1,0 +1,5 @@
+---
+# https://github.com/apps/settings
+repository:
+  description: A Docker image for running yamllint, a tool for linting YAML files.
+  topics: yamllint, tools, container, docker
