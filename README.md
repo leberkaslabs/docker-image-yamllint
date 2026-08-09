@@ -1,6 +1,6 @@
 # YAML-Linter
 
-[![Container Release (yamllint)](https://github.com/leberkaslabs/docker-image-yamllint/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/leberkaslabs/docker-image-yamllint/actions/workflows/build-push-action.yml)
+[![Container Release (yamllint)](https://github.com/leberkaslabs/docker-image-yamllint/actions/workflows/build.yml/badge.svg)](https://github.com/leberkaslabs/docker-image-yamllint/actions/workflows/build.yml)
 
 This repository is designed to build Docker images for [yamllint](https://yamllint.readthedocs.io/en/stable/).
 
